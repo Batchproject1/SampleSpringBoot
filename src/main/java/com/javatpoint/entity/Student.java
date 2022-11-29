@@ -1,4 +1,4 @@
-package com.javatpoint;
+package com.javatpoint.entity;
 
 import javax.persistence.Cacheable;
 import javax.persistence.Column;

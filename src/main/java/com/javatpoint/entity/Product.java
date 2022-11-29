@@ -1,4 +1,4 @@
-package com.javatpoint;
+package com.javatpoint.entity;
 public class Product 
 {
 private int id;
